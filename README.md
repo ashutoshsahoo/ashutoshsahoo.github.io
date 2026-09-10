@@ -19,7 +19,7 @@ Great engineering organizations combine:
 
 ## 👨‍💼 Leadership Focus
 
-- Directing and scaling cross-functional engineering teams (20+ engineers)
+- Directing and scaling cross-functional engineering teams
 - Translating business KPIs into actionable, high-impact engineering roadmaps
 - Architectural oversight for scalable, secure, highly-available platforms
 - Engineering excellence, reliability and observability as org-wide practices
