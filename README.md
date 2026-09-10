@@ -1,10 +1,8 @@
-# About
+# 👋 About Me
 
-I am an engineering leader focused on building **scalable backend platforms, distributed systems and AI-powered applications**.
+Engineering leader with a track record of building **scalable backend platforms, distributed systems and high-performing engineering teams**. I focus on translating business strategy into reliable, observable engineering systems — and building the teams and culture that sustain them.
 
-My technical interests span **Generative AI, LLM applications, Agentic AI, RAG, AI platforms, distributed systems and cloud-native architecture**.
-
-I enjoy turning complex business problems into **reliable, scalable and observable engineering systems** and building high-performing engineering teams around them.
+In recent years I've extended that focus into **AI-powered applications and GenAI platforms**, applying the same principles of reliability, observability and simplicity to LLM-based systems.
 
 ---
 
@@ -12,253 +10,94 @@ I enjoy turning complex business problems into **reliable, scalable and observab
 
 > **Build systems that scale. Make them observable. Keep them simple.**
 
-I believe great engineering combines:
-
-**Strong architecture + pragmatic technology + reliable systems + high-performing teams + continuous learning.**
+Great engineering organizations combine:
+**strong architecture + pragmatic technology choices + reliable systems + high-performing teams + continuous learning.**
 
 ---
 
-## 👨‍💻 Engineering Leadership
+## 👨‍💼 Leadership Focus
 
-I enjoy building **high-performing engineering teams** and translating business requirements into scalable technical solutions.
-
-My leadership interests include:
-
-- AI-native product development
-- GenAI platform strategy
-- AI engineering architecture
-- Distributed systems
-- Cloud-native engineering
-- Developer productivity
-- Engineering excellence
-- Reliability & observability
-- Technical strategy
+- Building and scaling high-performing engineering teams
+- Translating business requirements into technical strategy
 - Architecture & design reviews
-- Engineering mentorship
-- Building strong engineering culture
+- Engineering excellence, reliability and observability as org-wide practices
+- Developer productivity and engineering culture
+- Mentorship and technical career growth
+- GenAI platform strategy and AI-native product development
 
 ---
 
-## 🤖 AI Engineering
+## 🛠️ Technical Expertise
 
-### Generative AI & LLM Applications
+### Backend & Distributed Systems
 
-`LLMs` `Generative AI` `RAG` `Agentic AI` `AI Agents`  
-`Tool Calling` `Function Calling` `Structured Outputs`  
-`Prompt Engineering` `Context Engineering` `LLM Applications`
+`Java` `Spring Boot` `Spring Security` `Hibernate` `Python` `Node.js`
+`REST APIs` `GraphQL` `Microservices` `Event-Driven Architecture`
+`Kafka` `RabbitMQ` `ActiveMQ` `Async Processing` `Resilience Patterns`
 
-### Retrieval & Knowledge Systems
+### Frontend
 
-`Embeddings` `Vector Databases` `Vector Search`  
-`Semantic Search` `Hybrid Search` `Reranking`  
-`Knowledge Bases` `Document Intelligence`
+`React` `Angular` `Thymeleaf`
 
-### AI Agent Architecture
+### Data & Storage
 
-`AI Agents` `Agent Orchestration` `Tool Use`  
-`MCP` `Model Context Protocol` `Multi-Agent Systems`  
-`Agent Memory` `Planning` `Reasoning` `Workflow Automation`
+`PostgreSQL` `Oracle` `MongoDB` `Cassandra` `DynamoDB` `Redis` `Hazelcast`
 
-### Production AI
+Areas of interest: database scalability, query optimization, replication, partitioning, connection pooling, distributed caching, high-throughput data access.
 
-`LLM Evaluation` `AI Observability` `LLM Monitoring`  
-`Guardrails` `Hallucination Mitigation` `Prompt Evaluation`  
-`Token Optimization` `Latency Optimization` `AI Cost Optimization`  
-`Model Routing` `Fallback Models` `AI Reliability`
+### Cloud-Native & Platform Engineering
 
-### AI Infrastructure
+`Kubernetes` `Docker` `Helm` `AWS` `Azure` `Istio` `Kong`
 
-`LLM Gateway` `LLM Serving` `Local LLMs`  
-`Inference Optimization` `Model Quantization`  
-`Streaming` `GPU Inference` `Model Routing`
+Focus areas: containerized platforms, API gateways, service-to-service communication, configuration & secrets management, autoscaling, resilience engineering.
 
-### Models & AI Platforms
+### AI / GenAI Engineering
 
-#### Enterprise / Cloud Models
+`LLMs` `RAG` `AI Agents` `MCP (Model Context Protocol)` `Tool Calling`
+`Embeddings` `Vector Search` `Reranking` `LLM Evaluation` `AI Observability`
+`LLM Gateway & Model Routing` `Prompt Engineering`
 
-`OpenAI ChatGPT`
-`Anthropic Claude`  
-`Google Gemini`  
-`xAI Grok`
+Models & platforms: Claude, GPT, Gemini, Grok, plus open/local models (Llama, Qwen, Mistral, DeepSeek, Gemma via Ollama).
 
-#### Open & Local Models
+Developer tools: Claude Code, Cursor, Aider.
 
-`Qwen` `Llama` `Mistral`  
-`DeepSeek` `Gemma`  
-`Ollama`
+### Observability & Reliability
 
-#### AI Developer Tools
+`OpenTelemetry` `Prometheus` `Grafana` `ELK`
 
-`Claude Code` `Cursor` `Aider` `AI-assisted Software Engineering`  
-`AI Coding Agents` `LLM-powered Developer Tools`
+Focus areas: distributed tracing, SLO/SLI, error budgets, production diagnostics, performance engineering.
 
----
+### Security
 
-## ☕ Backend Engineering
+`OAuth2` `JWT` `SAML` `SSO` `Vault`
 
-### Languages
-
-`Java` `SQL` `Python`
-
-### Frameworks
-
-`Spring Boot` `Spring Security` `Spring Data`  
-`Hibernate` `REST APIs` `GraphQL`
-
-### Distributed Systems
-
-`Microservices` `Event-Driven Architecture`  
-`Kafka` `Distributed Caching`  
-`Async Processing` `Resilience Patterns`
-
----
-
-## 🐘 Data & Storage
-
-`PostgreSQL` `Redis` `MongoDB`
-
-Areas of interest:
-
-- Database scalability
-- Query optimization
-- Replication
-- Read/write scaling
-- Partitioning
-- Connection pooling
-- Distributed caching
-- High-throughput data access
-
----
-
-## ☸️ Cloud-Native & Platform Engineering
-
-`Kubernetes` `Docker` `Helm`  
-`AWS` `Istio` `Kong`  
-`Cloud-Native Architecture` `Service Mesh`
-
-### Platform Engineering
-
-- Containerized applications
-- Kubernetes-based platforms
-- API gateways
-- Service-to-service communication
-- Configuration & secrets management
-- Autoscaling
-- Resilience engineering
-
----
-
-## 📊 Observability & Reliability
-
-`OpenTelemetry` `Prometheus` `Grafana`
-
-Focus areas:
-
-- Distributed tracing
-- Metrics & monitoring
-- Application performance
-- SLO / SLI
-- Error budgets
-- Production diagnostics
-- Performance engineering
-- Reliability engineering
-
----
-
-## 🔐 Security
-
-`Spring Security` `OAuth2` `JWT` `SAML` `SSO`  
-`API Security` `Authentication & Authorization`  
-`Secrets Management` `Vault`
-
----
-
-## 🧠 Current Areas of Exploration
-
-I'm currently exploring:
-
-- **AI Agents & Agentic AI**
-- **RAG architectures**
-- **MCP and tool-based AI systems**
-- **LLM evaluation & observability**
-- **Local LLMs and inference**
-- **AI coding agents**
-- **AI-assisted software engineering**
-- **Enterprise GenAI platforms**
-- **LLM gateways and model routing**
-- **Production AI reliability & cost optimization**
+Focus areas: authentication & authorization, API security, secrets management.
 
 ---
 
 ## 📌 Featured Projects
 
-### 🤖 AI & GenAI
-
-**Enterprise RAG Platform**  
+**Enterprise RAG Platform**
 RAG pipeline covering embeddings, vector search, hybrid retrieval, reranking and LLM evaluation.
 
-**Agentic AI Platform**  
+**Agentic AI Platform**
 Tool-calling AI agents with MCP, memory, orchestration and enterprise integrations.
 
-**LLM Gateway**  
+**LLM Gateway**
 Enterprise gateway for model routing, authentication, rate limiting, token tracking, cost optimization and observability.
 
-### ☁️ Cloud & Distributed Systems
+**Cloud-Native Spring Boot Platform**
+Spring Boot microservices on Kubernetes with Kafka, PostgreSQL, Redis, observability and resilience patterns.
 
-**Cloud-Native Spring Boot Platform**  
-Spring Boot microservices deployed on Kubernetes with Kafka, PostgreSQL, Redis, observability and resilience patterns.
-
-**PostgreSQL Scaling & Performance Lab**  
-Experiments around partitioning, replication, connection pooling, read scaling and high-throughput workloads.
-
----
-
-## 🛠️ Technology Stack
-
-### Backend
-
-`Java` `Spring Boot` `Spring Security` `Hibernate` `Python` `Nodejs`
-
-### AI / GenAI
-
-`RAG` `LLMs` `AI Agents` `MCP` `Tool Calling`  
-`Embeddings` `Vector Search` `Reranking` `LLM Evaluation`
-
-### AI Models
-
-`GPT` `Claude` `Gemini` `Grok`  
-`Qwen` `Llama` `Mistral` `DeepSeek` `Gemma`
-
-### Data
-
-`PostgreSQL` `Oracle` `MongoDB` `Casandra` `DynamoDB` `Redis` `Hazelcast`
-
-### Messaging
-
-`Kafka` `RabbitMQ` `ActiveMQ`
-
-### Cloud & Platform
-
-`Kubernetes` `Docker` `AWS` `Helm` `Istio` `Kong` `Azure`
-
-### Observability
-
-`OpenTelemetry` `Prometheus` `Grafana` `ELK`
-
-### Security
-
-`OAuth2` `JWT` `Vault` `Spring Security` `SAML` `SSO`
-
-### Developer Productivity
-
-`Cursor` `Ollama` `Aider` `AI Coding Agents`
+**PostgreSQL Scaling & Performance Lab**
+Experiments in partitioning, replication, connection pooling and high-throughput read/write scaling.
 
 ---
 
 ## 📫 Connect
 
-[Github](https://github.com/ashutoshsahoo) · [LinkedIn](https://www.linkedin.com/in/ashutoshsahoo/) · [Stack Overflow](https://stackoverflow.com/users/4768262/ashutosh)
+[GitHub](https://github.com/ashutoshsahoo) · [LinkedIn](https://www.linkedin.com/in/ashutoshsahoo/) · [Stack Overflow](https://stackoverflow.com/users/4768262/ashutosh)
 
 ---
 
-⭐ Feel free to explore my repositories and experiments around **AI Engineering, Distributed Systems and Cloud-Native Architecture**.
+⭐ Exploring engineering leadership, distributed systems and enterprise AI platforms — feel free to browse my repositories and experiments.
