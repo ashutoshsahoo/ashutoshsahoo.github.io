@@ -1,6 +1,4 @@
-# Hi 👋 I'm Ashutosh Sahoo
-
-### Engineering Leader | GenAI & LLM | Distributed Systems | Cloud-Native Architecture
+# About
 
 I am an engineering leader focused on building **scalable backend platforms, distributed systems and AI-powered applications**.
 
@@ -76,20 +74,20 @@ My leadership interests include:
 
 ### Models & AI Platforms
 
-**Enterprise / Cloud Models**
+#### Enterprise / Cloud Models
 
 `OpenAI ChatGPT`
 `Anthropic Claude`  
 `Google Gemini`  
 `xAI Grok`
 
-**Open & Local Models**
+#### Open & Local Models
 
 `Qwen` `Llama` `Mistral`  
 `DeepSeek` `Gemma`  
 `Ollama`
 
-**AI Developer Tools**
+#### AI Developer Tools
 
 `Claude Code` `Cursor` `Aider` `AI-assisted Software Engineering`  
 `AI Coding Agents` `LLM-powered Developer Tools`
@@ -98,19 +96,19 @@ My leadership interests include:
 
 ## ☕ Backend Engineering
 
-**Languages**
+### Languages
 
 `Java` `SQL` `Python`
 
-**Frameworks**
+### Frameworks
 
 `Spring Boot` `Spring Security` `Spring Data`  
 `Hibernate` `REST APIs` `GraphQL`
 
-**Distributed Systems**
+### Distributed Systems
 
 `Microservices` `Event-Driven Architecture`  
-`Kafka` `RabbitMQ` `Distributed Caching`  
+`Kafka` `Distributed Caching`  
 `Async Processing` `Resilience Patterns`
 
 ---
@@ -169,7 +167,7 @@ Focus areas:
 
 ## 🔐 Security
 
-`Spring Security` `OAuth2` `JWT`  
+`Spring Security` `OAuth2` `JWT` `SAML` `SSO`  
 `API Security` `Authentication & Authorization`  
 `Secrets Management` `Vault`
 
@@ -218,39 +216,48 @@ Experiments around partitioning, replication, connection pooling, read scaling a
 ## 🛠️ Technology Stack
 
 ### Backend
-`Java` `Spring Boot` `Spring Security` `Hibernate`
+
+`Java` `Spring Boot` `Spring Security` `Hibernate` `Python` `Nodejs`
 
 ### AI / GenAI
+
 `RAG` `LLMs` `AI Agents` `MCP` `Tool Calling`  
 `Embeddings` `Vector Search` `Reranking` `LLM Evaluation`
 
 ### AI Models
+
 `GPT` `Claude` `Gemini` `Grok`  
 `Qwen` `Llama` `Mistral` `DeepSeek` `Gemma`
 
 ### Data
-`PostgreSQL` `Redis` `MongoDB`
+
+`PostgreSQL` `Oracle` `MongoDB` `Casandra` `DynamoDB` `Redis` `Hazelcast`
 
 ### Messaging
-`Kafka` `RabbitMQ`
+
+`Kafka` `RabbitMQ` `ActiveMQ`
 
 ### Cloud & Platform
-`Kubernetes` `Docker` `AWS` `Helm` `Istio` `Kong`
+
+`Kubernetes` `Docker` `AWS` `Helm` `Istio` `Kong` `Azure`
 
 ### Observability
-`OpenTelemetry` `Prometheus` `Grafana`
+
+`OpenTelemetry` `Prometheus` `Grafana` `ELK`
 
 ### Security
-`OAuth2` `JWT` `Vault` `Spring Security`
+
+`OAuth2` `JWT` `Vault` `Spring Security` `SAML` `SSO`
 
 ### Developer Productivity
-`Ollama` `Aider` `AI Coding Agents`
+
+`Cursor` `Ollama` `Aider` `AI Coding Agents`
 
 ---
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/ashutoshsahoo/) · [Stack Overflow](https://stackoverflow.com/users/4768262/ashutosh)
+[Github](https://github.com/ashutoshsahoo) · [LinkedIn](https://www.linkedin.com/in/ashutoshsahoo/) · [Stack Overflow](https://stackoverflow.com/users/4768262/ashutosh)
 
 ---
 
