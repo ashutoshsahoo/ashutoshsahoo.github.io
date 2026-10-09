@@ -35,7 +35,7 @@ Great engineering organizations combine:
 - **Product Delivery** — Spearheaded development and rollout of multiple high-impact digital products with robust performance and seamless UX.
 - **Revenue Generation** — Drove significant revenue growth by conceptualizing and launching new AI-powered product lines.
 - **Global Impact** — Expanded product capabilities to serve a large-scale user base across multiple international markets.
-- **Process Optimization** — Boosted team goal completion rates by **25%** by removing technical bottlenecks, streamlining agile workflows, and deploying Cursor for GenAI-assisted development.
+- **Process Optimization** — Boosted team goal completion rates by **35%** by removing technical bottlenecks, streamlining agile workflows, and deploying Cursor for GenAI-assisted development.
 - **Business Alignment** — Partnered closely with product and business stakeholders to turn strategic KPIs into engineering roadmaps.
 - **Architectural Oversight** — Provided end-to-end architectural leadership for scalable, secure, highly-available platforms.
 - **Talent Development** — Cultivated a culture of engineering excellence through mentoring, clear career development paths, and upskilling.
